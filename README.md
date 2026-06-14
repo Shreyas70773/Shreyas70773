@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Shreyas%20Sunil&fontSize=66&fontColor=ffffff&animation=fadeIn&desc=AI%20automation%20and%20web%20platforms%20for%20B2B%20manufacturers&descSize=16&descAlignY=64)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJycGhyeTF4M3Awdmh4OTV4dWw0NDM5c25yYmI5bXl0ejY4MzMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggtpYV17RP9lTbc542/giphy.gif" width="100%" alt="banner" />
+
+<h1>Shreyas Sunil</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=I+build+AI+automation+and+web+platforms;Built+for+industrial+manufacturers+and+B2B;Agentic+AI+%7C+MCP+%7C+full-stack+%7C+integrations)](https://pixelandpunch.com)
 
@@ -44,6 +46,7 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 
 </div>
 
+<!-- ===== SNAKE (keep this) — needs the snake.yml workflow to have run once ===== -->
 ### 🐍 Contribution snake
 
 <div align="center">
@@ -56,8 +59,17 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 
 </div>
 
----
+## 🤝 Let's build something
 
 <div align="center">
-<sub>🌽 What do you call corn that joins the army?</sub>
+
+<a href="https://cal.id/shreyas">
+  <img src="assets/collab.png" width="320" alt="DM for collaboration" />
+</a>
+
+**📩 DM for collaboration**
+
 </div>
+
+---
+
