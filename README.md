@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJycGhyeTF4M3Awdmh4OTV4dWw0NDM5c25yYmI5bXl0ejY4MzMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggtpYV17RP9lTbc542/giphy.gif" width="100%" alt="banner" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJycGhyeTF4M3Awdmh4OTV4dWw0NDM5c25yYmI5bXl0ejY4MzMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggtpYV17RP9lTbc542/giphy.gif" width="500" alt="banner" />
 
 <h1>Shreyas Sunil</h1>
 
@@ -64,7 +64,7 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 <div align="center">
 
 <a href="https://cal.id/shreyas">
-  <img src="assets/collab.png" width="320" alt="DM for collaboration" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRpa2piNWRvaGxkOGE3ZXRhaXZnbHQ3cGs1MXowOGRtcm5ncmVveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3nQn4xQhZWblrDBb7/giphy.gif" width="320" alt="DM for collaboration" />
 </a>
 
 **📩 DM for collaboration**
