@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyas%20Sunil&fontSize=66&fontColor=ffffff&animation=fadeIn&desc=AI%20automation%20%26%20web%20platforms%20for%20B2B%20manufacturers&descSize=16&descAlignY=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Shreyas%20Sunil&fontSize=66&fontColor=ffffff&animation=fadeIn&desc=AI%20automation%20and%20web%20platforms%20for%20B2B%20manufacturers&descSize=16&descAlignY=64)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B91F1&center=true&vCenter=true&width=620&lines=I+build+AI+automation+%26+web+platforms;Built+for+industrial+manufacturers+%26+B2B;Agentic+AI+%2F+MCP+%E2%80%A2+full-stack+%E2%80%A2+integrations)](https://pixelandpunch.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=I+build+AI+automation+and+web+platforms;Built+for+industrial+manufacturers+and+B2B;Agentic+AI+%7C+MCP+%7C+full-stack+%7C+integrations)](https://pixelandpunch.com)
 
 🌐 [pixelandpunch.com](https://pixelandpunch.com) &nbsp;·&nbsp; 📬 **Open to freelance & contract work**
 
@@ -14,14 +14,14 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 
 ## 🛠️ Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MCP / Agentic AI](https://img.shields.io/badge/MCP%20%2F%20Agentic%20AI-4B91F1?style=for-the-badge&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-141414?style=flat-square&logo=tailwindcss&logoColor=white)
+![Agentic AI / MCP](https://img.shields.io/badge/Agentic%20AI%20%2F%20MCP-141414?style=flat-square)
 
 ## 🚀 What I do
 
@@ -40,8 +40,7 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shreyas70773&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas70773&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shreyas70773&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff)
 
 </div>
 
@@ -60,5 +59,5 @@ I take the work that quietly eats a business's time — sourcing, quoting, outre
 ---
 
 <div align="center">
-<sub> 🌽 What do you call corn that joins the army? </sub>
+<sub>🌽 What do you call corn that joins the army?</sub>
 </div>
