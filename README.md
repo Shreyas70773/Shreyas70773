@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJycGhyeTF4M3Awdmh4OTV4dWw0NDM5c25yYmI5bXl0ejY4MzMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggtpYV17RP9lTbc542/giphy.gif" width="500" alt="banner" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJycGhyeTF4M3Awdmh4OTV4dWw0NDM5c25yYmI5bXl0ejY4MzMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggtpYV17RP9lTbc542/giphy.gif" width="400" alt="banner" />
 
 <h1>Shreyas Sunil</h1>
 
